@@ -2,7 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/mohan056/mohan056.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-<img src=".\ nyc.JPG" alt="Markdown Moster" width="140" height="200" style="float: left; margin-right: 10px;" />
+<img src=".\ nyc.JPG" width="140" height="200" style="float: left; margin-right: 10px;" />
+<img src=".\upside_down.JP" width="140" height="200" style="float: right; margin-left: 10px;" />
  
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
