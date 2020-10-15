@@ -3,10 +3,10 @@
 You can use the [editor on GitHub](https://github.com/mohan056/mohan056.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 <div class="row">
   <div class="column">
-    <img src=" nyc.JPG" height="200" width="140" style="width:5%">
+    <img src=" nyc.JPG" height="200" width="140" style="width:100%">
   </div>
   <div class="column">
-    <img src="upside_down.JPG" height="200" width="140" style="width:5%">
+    <img src="upside_down.JPG" height="200" width="140" style="width:100%">
   </div>
 </div>
 
