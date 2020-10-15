@@ -1,13 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mohan056/mohan056.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## About
 <div>
   <img src=" nyc.JPG" height="200" width="140" style="width:100%">
 </div>
 
-
- 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a current graduate student at the University of Minnesota - Twin Cities majoring in computer science.
 
 ### Markdown
 
