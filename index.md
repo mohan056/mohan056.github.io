@@ -1,6 +1,6 @@
 ## About
 <div>
-  <img src=" nyc.JPG" height="200" width="140" style="width:100%">
+  <img src=" nyc.JPG" height="200" width="140">
 </div>
 
 I am a current graduate student at the University of Minnesota - Twin Cities majoring in computer science.
